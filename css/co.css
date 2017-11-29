@@ -1,0 +1,126 @@
+span.color-1 {background: #3cb6b6;}
+span.color-2 {background: #2574A9;}
+span.color-3 {background: #019875;}
+span.color-4 {background: #D35400;}
+
+
+
+
+
+
+
+.main_menu > ul > li.active > a, {
+    background: #3cb6b6 ;
+}
+.main_menu > ul > li > a:hover, .main_menu > ul > li:hover > a {
+    background: #3cb6b6 ;
+}
+.service_title > h1:before {
+background : #3cb6b6;
+}
+.service_item:hover {
+	background : #3cb6b6;
+}
+.service_item:hover .service_logo a i {
+color : #3CB6B6;
+}
+.protfolio_title > h1:before {
+background : none 0 0 repeat scroll #3cb6b6;
+}
+.protfolio_menu > ul > li {
+border : #3cb6b6 solid 1px;
+}
+.protfolio_menu > ul > li:hover {
+background : #3cb6b6;
+}
+.protfolio_overlly_icon > a:hover {
+background : #3CB6B6;
+}
+.team_title > h1:before {
+background : none 0 0 repeat scroll #3cb6b6;
+}
+.member_detailes {
+background : none 0 0 repeat scroll rgba(60, 182, 182, 0.4);
+}
+.member_info {
+background : none 0 0 repeat scroll hsl(180, 50%, 47%);
+}
+}
+.member_social-link .facebook:hover {
+background : #3BB3B3;
+}
+.member_social-link .twitter:hover {
+background : #3BB3B3;
+}
+.link:hover {
+background : #3BB3B3;
+}
+.gooddesignm_icon {
+background : none 0 0 repeat scroll hsl(180, 50%, 47%);
+}
+.gooddesignm_icon:hover i {
+color : hsl(180, 50%, 47%);
+}
+.section_title > h2:before {
+background : #3cb6b6;
+}
+.price_head {
+border-bottom : 5px solid #3cb6b6;
+}
+.price-head-bottom p {
+background : none 0 0 repeat scroll #3cb6b6;
+}
+.price_menu button {
+background : none 0 0 repeat scroll #1d8f8f;
+}
+.less_icon {
+background : none 0 0 repeat scroll hsl(180, 50%, 47%);
+}
+.less_icon:hover a i {
+color : hsl(180, 50%, 47%);
+}
+.blog_title > h2:before {
+background : none 0 0 repeat scroll #3cb6b6;
+}
+.blog_subject > h3 {
+color : #3cb6b6;
+}
+.blog_date > p:before {
+background : none 0 0 repeat scroll #3cb6b6;
+}
+.blog_list .owl-prev {
+background : none 0 0 repeat scroll #3CB6B6;
+}
+.blog_list .owl-prev:hover, .blog_list .owl-next:hover {
+border : #3CB6B6 solid 1px;
+color : #3CB6B6;
+}
+.blog_list .owl-next {
+background : none 0 0 repeat scroll #3CB6B6;
+}
+.contact_title > h2:before {
+background : none 0 0 repeat scroll #3cb6b6;
+}
+.messag_area textarea:focus, .input_area input:focus {
+border-color : #3cb6b6;
+box-shadow : 0 1px 6px #3cb6b6;
+}
+.submit > input {
+background : none 0 0 repeat scroll #3CB6B6;
+}
+.submit > input:hover {
+background : #249e9e;
+}
+.contact_info li a:hover {
+color : #3CB6B6;
+}
+.footer_top ul li:hover a {
+background : #3CB6B6;
+}
+.footer a {
+color : #3cb6b6;
+}
+
+.scroll-top a {
+background : none 0 0 repeat scroll #3cb6b6;
+}

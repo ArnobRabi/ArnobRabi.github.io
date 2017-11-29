@@ -1,0 +1,67 @@
+span.color-1 {background: #3cb6b6;}
+span.color-2 {background: #2574A9;}
+span.color-3 {background: #019875;}
+span.color-4 {background: #D35400;}
+
+
+/****************************  color-bar-1 ****************************/
+
+
+.color-bar-1 .main_menu > ul > li.active > a, .color-bar-1 .main_menu > ul > li > a:hover, .color-bar-1 .main_menu > ul > li:hover > a, .color-bar-1 .slide-container.slide-skin .btn-shop a, .color-bar-1 .slide-container.slide-skin-2 .btn-shop a, .color-bar-1 .slide-container.slide-skin-3 .btn-shop a, .color-bar-1 .slide-container.slide-skin-4 .btn-shop a, .color-bar-1 .service_title > h1:before, .color-bar-1 .service_item:hover, .color-bar-1 .protfolio_title > h1:before, .color-bar-1 .protfolio_menu > ul > li:hover, .color-bar-1 .protfolio_overlly_icon > a:hover, .color-bar-1 .team_title > h1:before, .color-bar-1 .member_info, .color-bar-1 .member_social-link .facebook:hover, .color-bar-1 .member_social-link .twitter:hover, .color-bar-1 .link:hover, .color-bar-1 .gooddesignm_icon, .color-bar-1 .section_title > h2:before, .color-bar-1 .price-head-bottom p, .color-bar-1 .price_menu button, .color-bar-1 .less_icon, .color-bar-1 .blog_title > h2:before, .color-bar-1 .blog_date > p:before, .color-bar-1 .blog_list .owl-prev, .color-bar-1 .blog_list .owl-next, .color-bar-1 .contact_title > h2:before, .color-bar-1 .submit > input, .color-bar-1 .submit > input:hover, .color-bar-1 .footer_top ul li:hover a, .color-bar-1 .scroll-top a, .color-bar-1 .progress-bar, .color-bar-1 span.piker_icon{    background: #3cb6b6 ;}
+
+.color-bar-1 .service_item:hover .service_logo a i, .color-bar-1 .gooddesignm_icon:hover i, .color-bar-1 .less_icon:hover a i, .color-bar-1 .blog_subject > h3, .color-bar-1 .blog_list .owl-prev:hover, .color-bar-1 .blog_list .owl-next:hover, .color-bar-1 .contact_info li a:hover, .color-bar-1 .footer a{color : #3CB6B6;}
+
+.color-bar-1 .protfolio_menu > ul > li, .color-bar-1 .blog_list .owl-prev:hover, .color-bar-1 .blog_list .owl-next:hover, .color-bar-1 .messag_area textarea:focus, .color-bar-1 .input_area input:focus {border-color: #3cb6b6;}
+
+.color-bar-1 .price_head {border-bottom : 5px solid #3cb6b6;}
+.color-bar-1 .messag_area textarea:focus, .color-bar-1 .input_area input:focus {box-shadow : 0 1px 6px #3cb6b6;}
+
+.color-bar-1 .blog_list .owl-prev:hover, .color-bar-1 .blog_list .owl-next:hover{
+	background: #fff;
+}
+.color-bar-1 .member_detailes{background:rgba(60, 182, 182, 0.4);}
+/****************************  color-bar-2 ****************************/
+
+.color-bar-2 .main_menu > ul > li.active > a, .color-bar-2 .main_menu > ul > li > a:hover, .color-bar-2 .main_menu > ul > li:hover > a, .color-bar-2 .slide-container.slide-skin .btn-shop a, .color-bar-2 .slide-container.slide-skin-2 .btn-shop a, .color-bar-2 .slide-container.slide-skin-3 .btn-shop a, .color-bar-2 .slide-container.slide-skin-4 .btn-shop a, .color-bar-2 .service_title > h1:before, .color-bar-2 .service_item:hover, .color-bar-2 .protfolio_title > h1:before, .color-bar-2 .protfolio_menu > ul > li:hover, .color-bar-2 .protfolio_overlly_icon > a:hover, .color-bar-2 .team_title > h1:before, .color-bar-2 .member_info, .color-bar-2 .member_social-link .facebook:hover, .color-bar-2 .member_social-link .twitter:hover, .color-bar-2 .link:hover, .color-bar-2 .gooddesignm_icon, .color-bar-2 .section_title > h2:before, .color-bar-2 .price-head-bottom p, .color-bar-2 .price_menu button, .color-bar-2 .less_icon, .color-bar-2 .blog_title > h2:before, .color-bar-2 .blog_date > p:before, .color-bar-2 .blog_list .owl-prev, .color-bar-2 .blog_list .owl-next, .color-bar-2 .contact_title > h2:before, .color-bar-2 .submit > input, .color-bar-2 .submit > input:hover, .color-bar-2 .footer_top ul li:hover a, .color-bar-2 .scroll-top a, .color-bar-2 .progress-bar, .color-bar-2 span.piker_icon{    background: #2574A9 ;}
+
+.color-bar-2 .service_item:hover .service_logo a i, .color-bar-2 .gooddesignm_icon:hover i, .color-bar-2 .less_icon:hover a i, .color-bar-2 .blog_subject > h3, .color-bar-2 .blog_list .owl-prev:hover, .color-bar-2 .blog_list .owl-next:hover, .color-bar-2 .contact_info li a:hover, .color-bar-2 .footer a{color : #2574A9;}
+
+.color-bar-2 .protfolio_menu > ul > li, .color-bar-2 .blog_list .owl-prev:hover, .color-bar-2 .blog_list .owl-next:hover, .color-bar-2 .messag_area textarea:focus, .color-bar-2 .input_area input:focus {border-color: #2574A9;}
+
+.color-bar-2 .price_head {border-bottom : 5px solid #2574A9;}
+.color-bar-2 .messag_area textarea:focus, .color-bar-2 .input_area input:focus {box-shadow : 0 1px 6px #2574A9;}
+.color-bar-2 .blog_list .owl-prev:hover, .color-bar-2 .blog_list .owl-next:hover{
+	background: #fff;
+}
+.color-bar-2 .member_detailes{background:rgba(37, 116, 169, 0.4);}
+/****************************  color-bar-3 ****************************/
+
+
+.color-bar-3 .main_menu > ul > li.active > a, .color-bar-3 .main_menu > ul > li > a:hover, .color-bar-3 .main_menu > ul > li:hover > a, .color-bar-3 .slide-container.slide-skin .btn-shop a, .color-bar-3 .slide-container.slide-skin-2 .btn-shop a, .color-bar-3 .slide-container.slide-skin-3 .btn-shop a, .color-bar-3 .slide-container.slide-skin-4 .btn-shop a, .color-bar-3 .service_title > h1:before, .color-bar-3 .service_item:hover, .color-bar-3 .protfolio_title > h1:before, .color-bar-3 .protfolio_menu > ul > li:hover, .color-bar-3 .protfolio_overlly_icon > a:hover, .color-bar-3 .team_title > h1:before, .color-bar-3 .member_info, .color-bar-3 .member_social-link .facebook:hover, .color-bar-3 .member_social-link .twitter:hover, .color-bar-3 .link:hover, .color-bar-3 .gooddesignm_icon, .color-bar-3 .section_title > h2:before, .color-bar-3 .price-head-bottom p, .color-bar-3 .price_menu button, .color-bar-3 .less_icon, .color-bar-3 .blog_title > h2:before, .color-bar-3 .blog_date > p:before, .color-bar-3 .blog_list .owl-prev, .color-bar-3 .blog_list .owl-next, .color-bar-3 .contact_title > h2:before, .color-bar-3 .submit > input, .color-bar-3 .submit > input:hover, .color-bar-3 .footer_top ul li:hover a, .color-bar-3 .scroll-top a, .color-bar-3 .progress-bar, .color-bar-3 span.piker_icon{    background: #019875 ;}
+
+.color-bar-3 .service_item:hover .service_logo a i, .color-bar-3 .gooddesignm_icon:hover i, .color-bar-3 .less_icon:hover a i, .color-bar-3 .blog_subject > h3, .color-bar-3 .blog_list .owl-prev:hover, .color-bar-3 .blog_list .owl-next:hover, .color-bar-3 .contact_info li a:hover, .color-bar-3 .footer a {color : #019875;}
+
+.color-bar-3 .protfolio_menu > ul > li, .color-bar-3 .blog_list .owl-prev:hover, .color-bar-3 .blog_list .owl-next:hover, .color-bar-3 .messag_area textarea:focus, .color-bar-3 .input_area input:focus {border-color: #019875;}
+
+.color-bar-3 .price_head {border-bottom : 5px solid #019875;}
+.color-bar-3 .messag_area textarea:focus, .color-bar-3 .input_area input:focus {box-shadow : 0 1px 6px #019875;}
+.color-bar-3 .blog_list .owl-prev:hover, .color-bar-3 .blog_list .owl-next:hover{
+	background: #fff;
+}
+.color-bar-3 .member_detailes{background:rgba(1, 152, 117, 0.4);}
+
+
+/****************************  color-bar-3 ****************************/
+
+.color-bar-4 .main_menu > ul > li.active > a, .color-bar-4 .main_menu > ul > li > a:hover, .color-bar-4 .main_menu > ul > li:hover > a, .color-bar-4 .slide-container.slide-skin .btn-shop a, .color-bar-4 .slide-container.slide-skin-2 .btn-shop a, .color-bar-4 .slide-container.slide-skin-3 .btn-shop a, .color-bar-4 .slide-container.slide-skin-4 .btn-shop a, .color-bar-4 .service_title > h1:before, .color-bar-4 .service_item:hover, .color-bar-4 .protfolio_title > h1:before, .color-bar-4 .protfolio_menu > ul > li:hover, .color-bar-4 .protfolio_overlly_icon > a:hover, .color-bar-4 .team_title > h1:before, .color-bar-4 .member_info, .color-bar-4 .member_social-link .facebook:hover, .color-bar-4 .member_social-link .twitter:hover, .color-bar-4 .link:hover, .color-bar-4 .gooddesignm_icon, .color-bar-4 .section_title > h2:before, .color-bar-4 .price-head-bottom p, .color-bar-4 .price_menu button, .color-bar-4 .less_icon, .color-bar-4 .blog_title > h2:before, .color-bar-4 .blog_date > p:before, .color-bar-4 .blog_list .owl-prev, .color-bar-4 .blog_list .owl-next, .color-bar-4 .contact_title > h2:before, .color-bar-4 .submit > input, .color-bar-4 .submit > input:hover, .color-bar-4 .footer_top ul li:hover a, .color-bar-4 .scroll-top a, .color-bar-4 .progress-bar, .color-bar-4 span.piker_icon {    background: #D35400 ;}
+
+.color-bar-4 .service_item:hover .service_logo a i, .color-bar-4 .gooddesignm_icon:hover i, .color-bar-4 .less_icon:hover a i, .color-bar-4 .blog_subject > h3, .color-bar-4 .blog_list .owl-prev:hover, .color-bar-4 .blog_list .owl-next:hover, .color-bar-4 .contact_info li a:hover, .color-bar-4 .footer a {color : #D35400;}
+
+.color-bar-4 .protfolio_menu > ul > li, .color-bar-4 .blog_list .owl-prev:hover, .color-bar-4 .blog_list .owl-next:hover, .color-bar-4 .messag_area textarea:focus, .color-bar-4 .input_area input:focus {border-color: #D35400;}
+
+.color-bar-4 .price_head {border-bottom : 5px solid #D35400;}
+.color-bar-4 .messag_area textarea:focus, .color-bar-4 .input_area input:focus {box-shadow : 0 1px 6px #D35400;}
+.color-bar-4 .blog_list .owl-prev:hover, .color-bar-4 .blog_list .owl-next:hover{
+	background: #fff;
+}
+.color-bar-4 .member_detailes{background:rgba(211, 84, 0, 0.4);}

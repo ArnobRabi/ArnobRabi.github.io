@@ -1,0 +1,435 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  .iosSlider .slider .item .inner {
+	margin: 0;
+	width: 100%;
+}
+.slide-container.slide-skin-2{
+	left: 15%;
+}
+.slide-container.slide-skin-3 h1 {
+  left: 80px;
+}
+.slide-container.slide-skin-4 {
+  left: 30%;
+  width: 70%;
+}
+.slide-container.slide-skin h1, .slide-container.slide-skin-2 h1, .slide-container.slide-skin-3 h1, .slide-container.slide-skin-4 h1 {
+	font-size: 80px;
+}
+.slide-container.slide-skin h2, .slide-container.slide-skin-2 h2, .slide-container.slide-skin-3 h2, .slide-container.slide-skin-4 h2 {
+	font-size: 45px;
+	top:100px;
+	letter-spacing:6px;
+}
+.slide-container.slide-skin h3, .slide-container.slide-skin-2 h3, .slide-container.slide-skin-3 h3, .slide-container.slide-skin-4 h3{
+	top: 160px;
+}
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.iosSlider .slider .item .inner {
+    margin: 0;
+    width: 100%;
+}
+.slide-container.slide-skin-2{
+	left: 15%;
+}
+.slide-container.slide-skin-3 h1 {
+  left: 0px;
+}
+.slide-container.slide-skin-3 .btn-shop {
+  left: 180px;
+}
+.slide-container.slide-skin-4 {
+  left: 30%;
+  width: 75%;
+}
+.slide-container.slide-skin h1, .slide-container.slide-skin-2 h1, .slide-container.slide-skin-3 h1, .slide-container.slide-skin-4 h1 {
+	font-size: 60px;
+}
+.slide-container.slide-skin h2, .slide-container.slide-skin-2 h2, .slide-container.slide-skin-3 h2, .slide-container.slide-skin-4 h2 {
+	font-size: 40px;
+	top:100px;
+	letter-spacing:3px;
+}
+.slide-container.slide-skin h3, .slide-container.slide-skin-2 h3, .slide-container.slide-skin-3 h3, .slide-container.slide-skin-4 h3{
+	top: 160px;
+	font-size: 25px;
+}
+div.main_menu{
+	display: block;
+}	
+.main_menu > ul > li > a {
+    font-size: 13px;
+    padding: 43px 10px;
+}
+.is-sticky .main_menu > ul > li > a {
+    padding: 21px 10px;
+}
+.service_logo > a {
+  left: 34%;
+}
+.contract_form, .about-info {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}	
+.contact_info {
+  padding-left:10px;
+}
+
+.protfolio_item {
+	height: 250px;
+  width: 33.33%;
+}
+
+.price-head-bottom {
+    display: none;
+}
+.top-margin {
+    margin-top: 0;
+}
+.single-pricing {
+    margin-bottom: 30px;
+}
+   
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+
+	
+.header-area {
+    position: relative;
+}
+.main_menu {
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 54px;
+    width: 100%;
+	z-index: 999;
+}
+.is-sticky .main_menu {
+    top: 54px;
+	z-index: 999;
+}
+.logo_area > a, .is-sticky .logo_area > a {
+    padding: 15px 20px;
+}
+.logo_area img, .is-sticky .logo_area img {
+    width: 103px;
+}
+
+.header-area > span {
+    background: #000000 none repeat scroll 0 0;
+    border-radius: 3px;
+    height: 35px;
+    position: absolute;
+    right: 4px;
+    top: 11px;
+    width: 35px;
+	text-align: center;
+	cursor: pointer;
+}
+.header-area > span:before {
+	content: "\f0c9 ";
+	font-family: fontawesome;
+	font-size: 21px;
+    line-height: 1.7;
+	color: #FFF;
+}
+
+
+div.main_menu {
+    display: none;
+}
+.main_menu > ul > li {
+    float: none;
+    margin: 0;
+}
+.main_menu > ul > li > a, .is-sticky .main_menu > ul > li > a {
+	border-bottom: 1px solid #333333;
+	color: #999999;
+	font-size: 15px;
+	font-weight: 300;
+	padding: 8px 0;
+}
+.main_menu > ul > li:last-child > a{
+	border-bottom: 0px;
+}
+.main_menu > ul > li > a:hover, .main_menu > ul > li:hover > a, .main_menu > ul > li.active > a{
+	color: #fff;
+}	
+
+.iosSlider .slider .item .inner {
+    margin: 0;
+    width: 100%;
+}
+
+.slide-container.slide-skin, .slide-container.slide-skin-2, .slide-container.slide-skin-3, .slide-container.slide-skin-4 {
+    left:0px;
+	width: 100%;
+	top: 100px;
+	margin-left: 30px
+}
+.slide-container.slide-skin h1, .slide-container.slide-skin-2 h1, .slide-container.slide-skin-3 h1, .slide-container.slide-skin-4 h1 {
+    font-size: 35px;
+    letter-spacing: 0;
+}
+.slide-container.slide-skin h2, .slide-container.slide-skin-2 h2, .slide-container.slide-skin-3 h2, .slide-container.slide-skin-4 h2 {
+    font-size: 25px;
+    top: 60px;
+    letter-spacing: 0;
+}
+.slide-container.slide-skin h3, .slide-container.slide-skin-2 h3, .slide-container.slide-skin-3 h3, .slide-container.slide-skin-4 h3 {
+    font-size: 18px;
+    top: 90px;
+}
+.slide-container.slide-skin-3 h3 {
+  display: none;
+}
+.slide-container.slide-skin .btn-shop, .slide-container.slide-skin-2 .btn-shop, .slide-container.slide-skin-3 .btn-shop, .slide-container.slide-skin-4 .btn-shop{
+	left: 37px;
+	
+}	
+.services_area, .about_area, .protfolio_area, .team_area, .gooddesign_area, .pricing_area, .less_area, .blog_area, .contact_area{
+	padding: 25px 0;
+}	
+
+.contact_title > h2, .blog_title > h2, .section_title > h2, .team_title > h1, .protfolio_title > h1, .service_title > h1{
+    font-size: 25px;
+}
+.contact_title > h2::before, .blog_title > h2::before, .section_title > h2::before, .team_title > h1::before, .protfolio_title > h1::before, .service_title > h1::before {
+    top: 40px;
+	width: 80px;
+	margin-left:-42px;
+}
+.contact_title, .blog_title, .section_title, .team_title, .protfolio_title, .service_title {
+    margin-bottom: 40px;
+}
+
+.service_logo > a {
+    height: 70px;
+    padding: 13px;
+    right: 29%;
+    width: 70px;
+}
+.service_detailes {
+    margin: 0;
+}
+.service_logo {
+    height: 90px;
+}
+.service_item {
+    height: 230px;
+    margin: 0 auto 10px;
+    width: 85%;
+}
+.about-info > p {
+  text-align: justify;
+}	
+.protfolio_item {
+    height: 200px;
+    width: 50%;
+}
+.protfolio_menu > ul > li {
+    margin-bottom: 10px;
+}
+
+.team_member {
+    margin: 0 auto 25px;
+    width: 85%;
+}
+.gooddesignm_icon {
+    height: 50px;
+    width: 50px;
+}
+.gooddesignm_icon i {
+    font-size: 30px;
+}
+.gooddesignm_text > h1 {
+    font-size: 22px;
+}
+.gooddesignm_text span {
+    margin: 0 5px;
+}
+.price-head-bottom {
+    display: none;
+}
+.top-margin {
+    margin-top: 0;
+}
+.single-pricing {
+  margin: 0 auto 30px;
+  width: 85%;
+}
+.less_text > h1 {
+    font-size: 21px;
+}
+.less_text span {
+    margin: 0 5px;
+}
+.less_icon a i {
+    font-size: 25px;
+    margin-top: 25%;
+}
+.less_icon {
+    height: 55px;
+    width: 55px;
+}
+
+.contract_form, .about-info {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}	 
+.contact_info {
+  padding-left:10px;
+}
+.footer_top ul li a {
+    height: 50px;
+    width: 36px;
+}
+.footer_top ul li {
+    margin-right: 5px;
+}
+.footer_top ul li a i {
+    line-height: 50px;
+	font-size: 22px;
+}
+.footer p {
+    font-size: 13px;
+}
+	
+	
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+	
+	
+	
+.slide-container.slide-skin, .slide-container.slide-skin-2, .slide-container.slide-skin-3, .slide-container.slide-skin-4 {
+    left:0px;
+	width: 100%;
+	top: 100px;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.slide-container.slide-skin h1, .slide-container.slide-skin-2 h1, .slide-container.slide-skin-3 h1, .slide-container.slide-skin-4 h1 {
+    font-size: 52px;
+    letter-spacing: 0;
+}
+.slide-container.slide-skin h2, .slide-container.slide-skin-2 h2, .slide-container.slide-skin-3 h2, .slide-container.slide-skin-4 h2 {
+    font-size: 35px;
+    top: 80px;
+    letter-spacing: 0;
+}
+.slide-container.slide-skin h3, .slide-container.slide-skin-2 h3, .slide-container.slide-skin-3 h3, .slide-container.slide-skin-4 h3 {
+    font-size: 21px;
+    top: 120px;
+}
+.slide-container.slide-skin .btn-shop, .slide-container.slide-skin-2 .btn-shop, .slide-container.slide-skin-3 .btn-shop, .slide-container.slide-skin-4 .btn-shop{
+	left: 0;
+	top: 270px;
+	margin-left: 140px;
+	
+}	
+.services_area, .about_area, .protfolio_area, .team_area, .gooddesign_area, .pricing_area, .less_area, .blog_area, .contact_area{
+	padding: 40px 0;
+}	
+
+.contact_title > h2, .blog_title > h2, .section_title > h2, .team_title > h1, .protfolio_title > h1, .service_title > h1{
+    font-size: 30px;
+}
+.contact_title > h2::before, .blog_title > h2::before, .section_title > h2::before, .team_title > h1::before, .protfolio_title > h1::before, .service_title > h1::before {
+    top: 40px;
+	width: 90px;
+	margin-left:-45px;
+}
+.contact_title, .blog_title, .section_title, .team_title, .protfolio_title, .service_title {
+    margin-bottom: 40px;
+}	
+	
+
+
+.service_logo > a {
+	height: 80px;
+	padding: 19px;
+	right: 21%;
+	width: 80px;
+}
+.service_item {
+    margin: 0 auto 10px;
+    width: 75%;
+}
+
+.about-info {
+    margin: 0 auto 25px;
+    width: 80%;
+}
+
+.our-skill {
+    margin: 0 auto;
+    width: 80%;
+}
+	
+.protfolio_item {
+    height: 220px;
+    width: 50%;
+}
+.team_member {
+    margin: 0 auto 25px;
+    width: 75%;
+}	
+.gooddesignm_icon {
+    height: 65px;
+    width: 65px;
+}
+.gooddesignm_icon i {
+    font-size: 35px;
+}
+.gooddesignm_text > h1 {
+    font-size: 26px;
+}
+.single-pricing {
+  margin: 0 auto 30px;
+  width: 75%;
+}	
+.less_text > h1 {
+    font-size: 26px;
+}
+.less_text span {
+    margin: 0 5px;
+}
+.less_icon a i {
+    font-size: 28px;
+    margin-top: 30%;
+}
+.less_icon {
+    height: 65px;
+    width: 65px;
+}
+.contact_info {
+    margin: 0 auto;
+    width: 80%;
+}
+.contract_form {
+    margin: 0 auto 25px;
+    width: 80%;
+}
+.footer_top ul li a {
+    height: 50px;
+    width: 45px;
+}
+.footer_top ul li a i {
+    line-height: 50px;
+	font-size: 26px;
+}
+.lightboxOverlay, .lightbox{
+	display: none;
+}
+}
